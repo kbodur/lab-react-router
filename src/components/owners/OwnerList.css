@@ -1,0 +1,27 @@
+.owner-list{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    text-align: center;
+    gap: 30px;
+   
+} 
+
+.owner-name{
+border:  1px solid var(--primary);
+list-style: none;
+width: 400px;
+
+} 
+span{
+    color: var(--primary);
+}
+h2{
+    margin-left: 60px;
+}
+main{
+    padding: 60px;
+}
+  
+ 
+ 
